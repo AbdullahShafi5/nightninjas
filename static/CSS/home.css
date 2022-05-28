@@ -1,3 +1,11 @@
 body{
-    background-color: burlywood;
+    background-color: #00A3FF;
+}
+
+#txtrdr{
+    position: absolute;
+    top: 545px;
+    left: 181px;
+    width: 406.7px;
+    height: auto;
 }
