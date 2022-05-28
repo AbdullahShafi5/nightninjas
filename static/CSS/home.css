@@ -2,10 +2,66 @@ body{
     background-color: #00A3FF;
 }
 
-#txtrdr{
-    position: absolute;
-    top: 545px;
-    left: 181px;
-    width: 406.7px;
+.button{
+    width: 200px;
     height: auto;
+}
+
+.button:hover{
+    width: 250px;
+    height: auto;
+}
+
+#lefter{
+    margin-left: 700px;
+}
+
+#txtrdr{
+    display: block;
+    margin-top: 100px;
+}
+
+#music{
+    display: block;
+    margin-top: 50px;
+}
+
+#reward{
+    display: block;
+    margin-top: 50px;
+    height: 105px;
+    width: auto;
+}
+
+#reward:hover{
+    height: 130px;
+    width: auto;
+}
+
+#righter{
+    position: absolute;
+    left: 1000px;
+    top: 100px;
+}
+
+#lamp{
+    display: block;
+    margin-top: 10px;
+    height: 80px;
+    width: auto;
+}
+
+#lamp:hover{
+    height: 100px;
+    width: auto;
+}
+
+#reminder{
+    height: 210px;
+    width: auto;
+}
+
+#reminder:hover{
+    height: 260px;
+    width: auto;
 }
