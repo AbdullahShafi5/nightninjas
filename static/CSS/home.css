@@ -1,5 +1,6 @@
 body{
-    background-color: #00A3FF;
+    /*background-image: linear-gradient(to bottom right, #0084CE, #00A3FF);*/
+    background-color: #0084CE;
 }
 
 .button{
@@ -64,4 +65,11 @@ body{
 #reminder:hover{
     height: 260px;
     width: auto;
+}
+
+#title{
+    position: absolute;
+    top: 180px;
+    left: 80px;
+ 
 }
