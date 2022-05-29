@@ -8,11 +8,6 @@ body{
     height: auto;
 }
 
-.button:hover{
-    width: 250px;
-    height: auto;
-}
-
 #lefter{
     margin-left: 700px;
 }
@@ -25,6 +20,11 @@ body{
 #music{
     display: block;
     margin-top: 50px;
+}
+
+#music:hover{
+    width: 250px;
+    height: auto;
 }
 
 #reward{
@@ -51,12 +51,12 @@ body{
     height: 80px;
     width: auto;
 }
-
+/*
 #lamp:hover{
     height: 100px;
     width: auto;
 }
-
+*/
 #reminder{
     height: 210px;
     width: auto;
@@ -66,6 +66,12 @@ body{
     height: 260px;
     width: auto;
 }
+
+#games:hover{
+    width: 250px;
+    height: auto;
+}
+
 
 #title{
     position: absolute;
